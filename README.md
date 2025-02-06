@@ -5,13 +5,12 @@ Making Customer segmentation with income and spending
 <h2>DataSet</h2>
 have a cols :
 <li>
-  <ul>
-    <p>Customer ID</p>
-    <p>Age</p>
-    <p>Annual Income</p>
-    <p>Gender</p>
-    <p>Spending Score (1-100)</p>
-  </ul>
+
+   <ul> <p>Customer ID</p> </ul>
+   <ul> <p>Age</p></ul>
+    <ul> <p>Annual Income</p></ul>
+    <ul><p>Gender</p></ul>
+    <ul><p>Spending Score (1-100)</p></ul>
 </li>
 
 <h3>Cluster the data with income and spending Score</h3>
